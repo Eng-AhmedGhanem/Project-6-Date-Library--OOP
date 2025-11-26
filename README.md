@@ -53,4 +53,3 @@ clsDate-Cpp-Library/
 ```
 
 ------------------------------------------------------------
-Licensed under the MIT License.
